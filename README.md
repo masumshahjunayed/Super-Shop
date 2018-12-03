@@ -1,2 +1,2 @@
 # Super-Shop
-It is and java based desktop application.
+It is an java based desktop application.
